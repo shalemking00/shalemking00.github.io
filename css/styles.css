@@ -1,0 +1,127 @@
+h1{
+  font-family: 'Great Vibes', cursive;
+  margin:0 auto 0 auto;
+  padding-top: 90px;
+  color: black;
+}
+h2{
+    font-family: Comic Sans MS;
+    color: #66BFBF;
+}
+h3{
+    font-family: Comic Sans MS;
+    color: #11999E;
+}
+hr{
+  border-style: dotted;
+  border-bottom-style: none;
+  border-width: 2px;
+  margin: 100px auto 100px auto;
+}
+.first-para{
+  font-family:sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+
+}
+
+.top-container{
+  background-color: #abf0e9;
+}
+
+body{
+  margin:0;
+  text-align: center;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 9%;
+  top:4%;
+  bottom: 1%;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 10%;
+  top:2%;
+
+}
+.footer-link{
+  color:  #abf0e9;
+  margin-right: 10px;
+}
+.bottom-container{
+  background-color: #11999E;
+}
+.middle-container{
+  background-color: #9a1f40;
+  padding:20px;
+}
+.profile{
+  margin:100px auto 100px auto;
+}
+
+.computer{
+  width:100px;
+  float: left;
+  margin-right:2%;
+
+}
+a{
+  margin-bottom: 50px;
+  margin-top: 50px
+}
+.chillies{
+  width:100px;
+  float: right;
+  margin-right: 2%;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+.line{
+  line-height: 2;
+}
+.btn {
+	-moz-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	-webkit-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background-color:#33bdef;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+text-indent:0;
+	border:1px solid #057fd0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Comic Sans MS;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px -1px 0px #5b6178;
+}.btn:hover {
+	background-color:#019ad2;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
